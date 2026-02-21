@@ -89,7 +89,7 @@ MIT
 
 ## Автор
 
-fixftp
+Santyago52
 
 ---
 
@@ -97,6 +97,6 @@ fixftp
 
 ```
 # BEGIN hs managed entries
-127.0.0.1 vgif.ru www.vgif.ru tech.evr-vent.ru www.tech.evr-vent.ru evr-vent.ru www.evr-vent.ru
+127.0.0.1 site.com www.site.com site2.com www.site2.com
 # END hs managed entries
 ```
